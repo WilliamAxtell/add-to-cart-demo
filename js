@@ -1,9 +1,9 @@
 window.dataLayer = window.dataLayer || [];
 window.dataLayer.push({
-  event: 'add_to_cart', 
+  event: 'add_to_cart',
   currency: 'string',
   value: num,
-  ecommerce: {                          
+  ecommerce: {
     items: [{
       item_name: 'string',
       item_id: 'string',
